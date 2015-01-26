@@ -1,4 +1,6 @@
 function prepareVariables() {
+
+
 	var url = window.location.href;
 	var queryString = url.substr(url.indexOf('?')+1);
 	
